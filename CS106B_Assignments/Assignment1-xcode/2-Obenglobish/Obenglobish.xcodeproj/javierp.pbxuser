@@ -1,0 +1,169 @@
+// !$*UTF8*$!
+{
+	0898268114C4C1E100C133A7 /* Obenglobish.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1144}}";
+			sepNavSelRange = "{104, 0}";
+			sepNavVisRange = "{0, 671}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F805D3A415327A3000BD8167 /* Obenglobish */;
+		activeTarget = 8D1107260486CEB800E47090 /* Obenglobish */;
+		breakpoints = (
+			F86E33491533E789006CADE3 /* Obenglobish.cpp:38 */,
+		);
+		codeSenseManager = F805D3B215327A5100BD8167 /* Code sense */;
+		executables = (
+			F805D3A415327A3000BD8167 /* Obenglobish */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355863559;
+			PBXWorkspaceStateSaveDate = 355863559;
+		};
+		perUserProjectItems = {
+			F86E33A11533F68B006CADE3 /* PBXTextBookmark */ = F86E33A11533F68B006CADE3 /* PBXTextBookmark */;
+			F87192C415360C1100F97757 /* PBXTextBookmark */ = F87192C415360C1100F97757 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F805D3B115327A5100BD8167 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Obenglobish */ = {
+		activeExec = 0;
+		executables = (
+			F805D3A415327A3000BD8167 /* Obenglobish */,
+		);
+	};
+	F805D3A415327A3000BD8167 /* Obenglobish */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Obenglobish;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F805D3B115327A5100BD8167 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F805D3B215327A5100BD8167 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F86E33491533E789006CADE3 /* Obenglobish.cpp:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0898268114C4C1E100C133A7 /* Obenglobish.cpp */;
+		functionName = "obenglobish(string str)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = Obenglobish;
+		modificationTime = 355723498.878346;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F86E33A11533F68B006CADE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0898268114C4C1E100C133A7 /* Obenglobish.cpp */;
+		name = "Obenglobish.cpp: 52";
+		rLen = 0;
+		rLoc = 1165;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+	F87192C415360C1100F97757 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0898268114C4C1E100C133A7 /* Obenglobish.cpp */;
+		name = "Obenglobish.cpp: 5";
+		rLen = 0;
+		rLoc = 104;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 0;
+	};
+}

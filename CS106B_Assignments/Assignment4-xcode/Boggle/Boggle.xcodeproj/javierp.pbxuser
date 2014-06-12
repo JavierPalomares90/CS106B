@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F8E6E4EE1555F0BE0054C259 /* Boggle */;
+		activeTarget = 8D1107260486CEB800E47090 /* Boggle */;
+		breakpoints = (
+			F8A363551558EFC70077709B /* Boggle.cpp:385 */,
+			F8AC3EB6155B897D00F370DA /* Boggle.cpp:404 */,
+		);
+		codeSenseManager = F8E6E4FA1555F0DF0054C259 /* Code sense */;
+		executables = (
+			F8E6E4EE1555F0BE0054C259 /* Boggle */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358653762;
+			PBXWorkspaceStateSaveDate = 358653762;
+		};
+		perUserProjectItems = {
+			F82206D1155D737F0011BFB1 /* PBXTextBookmark */ = F82206D1155D737F0011BFB1 /* PBXTextBookmark */;
+			F87604A11560C0E500F8F56C /* PBXTextBookmark */ = F87604A11560C0E500F8F56C /* PBXTextBookmark */;
+			F8CAFF0C155B7A7C00274047 /* PBXTextBookmark */ = F8CAFF0C155B7A7C00274047 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F8E6E4F91555F0DF0054C259 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Boggle */ = {
+		activeExec = 0;
+		executables = (
+			F8E6E4EE1555F0BE0054C259 /* Boggle */,
+		);
+	};
+	A86B30A014E1FE7700ED0F09 /* Boggle.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 5993}}";
+			sepNavSelRange = "{10304, 81}";
+			sepNavVisRange = "{10243, 300}";
+			sepNavWindowFrame = "{{284, 4}, {996, 774}}";
+		};
+	};
+	A86B30A214E1FE7C00ED0F09 /* gboggle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 1131}}";
+			sepNavSelRange = "{2128, 0}";
+			sepNavVisRange = "{275, 1849}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A86B30A314E1FE8100ED0F09 /* gboggle.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 5135}}";
+			sepNavSelRange = "{9256, 5}";
+			sepNavVisRange = "{3653, 2123}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	F82206D1155D737F0011BFB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A86B30A014E1FE7700ED0F09 /* Boggle.cpp */;
+		name = "Boggle.cpp: 388";
+		rLen = 81;
+		rLoc = 10304;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 10243;
+	};
+	F87604A11560C0E500F8F56C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A86B30A014E1FE7700ED0F09 /* Boggle.cpp */;
+		name = "Boggle.cpp: 388";
+		rLen = 81;
+		rLoc = 10304;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 10243;
+	};
+	F8A363551558EFC70077709B /* Boggle.cpp:385 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A86B30A014E1FE7700ED0F09 /* Boggle.cpp */;
+		functionName = "isValidWord(string word, Grid<char>& board, int rowStart, int colStart)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 385;
+		location = Boggle;
+		modificationTime = 358654737.077976;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	F8AC3EB6155B897D00F370DA /* Boggle.cpp:404 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A86B30A014E1FE7700ED0F09 /* Boggle.cpp */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 404;
+		modificationTime = 358654778.600405;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F8CAFF0C155B7A7C00274047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A86B30A314E1FE8100ED0F09 /* gboggle.cpp */;
+		name = "gboggle.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 13009;
+	};
+	F8E6E4EE1555F0BE0054C259 /* Boggle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Boggle;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F8E6E4F91555F0DF0054C259 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F8E6E4FA1555F0DF0054C259 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

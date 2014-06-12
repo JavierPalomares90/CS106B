@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	089826F814C4C21B00C133A7 /* NumericConversion.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 845}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{361, 909}";
+			sepNavWindowFrame = "{{239, 48}, {750, 690}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F86E33961533F37E006CADE3 /* NumericConversion */;
+		activeTarget = 8D1107260486CEB800E47090 /* NumericConversion */;
+		codeSenseManager = F86E339C1533F39C006CADE3 /* Code sense */;
+		executables = (
+			F86E33961533F37E006CADE3 /* NumericConversion */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357025111;
+			PBXWorkspaceStateSaveDate = 357025111;
+		};
+		perUserProjectItems = {
+			F8333B2215362B6A0018302A /* PBXTextBookmark */ = F8333B2215362B6A0018302A /* PBXTextBookmark */;
+			F86ED78A1547CDD1000A5480 /* PBXTextBookmark */ = F86ED78A1547CDD1000A5480 /* PBXTextBookmark */;
+			F86ED78B1547CDD1000A5480 /* PBXTextBookmark */ = F86ED78B1547CDD1000A5480 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F86E339B1533F39C006CADE3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* NumericConversion */ = {
+		activeExec = 0;
+		executables = (
+			F86E33961533F37E006CADE3 /* NumericConversion */,
+		);
+	};
+	F8333B2215362B6A0018302A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089826F814C4C21B00C133A7 /* NumericConversion.cpp */;
+		name = "NumericConversion.cpp: 23";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 393;
+	};
+	F86E33961533F37E006CADE3 /* NumericConversion */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NumericConversion;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F86E339B1533F39C006CADE3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F86E339C1533F39C006CADE3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F86ED72B1547C552000A5480 /* ConsecutiveHeads.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ConsecutiveHeads.cpp;
+		path = "/Users/javierp/Documents/CS106B/Assignment1-xcode/1-ConsecutiveHeads/ConsecutiveHeads.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	F86ED78A1547CDD1000A5480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F86ED72B1547C552000A5480 /* ConsecutiveHeads.cpp */;
+		name = "ConsecutiveHeads.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	F86ED78B1547CDD1000A5480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089826F814C4C21B00C133A7 /* NumericConversion.cpp */;
+		name = "NumericConversion.cpp: 23";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 361;
+	};
+}

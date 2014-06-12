@@ -1,0 +1,123 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F861578D153D2FDF001A27CC /* WordLadder */;
+		activeTarget = 8D1107260486CEB800E47090 /* WordLadder */;
+		codeSenseManager = F861579E153D2FE3001A27CC /* Code sense */;
+		executables = (
+			F861578D153D2FDF001A27CC /* WordLadder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358021283;
+			PBXWorkspaceStateSaveDate = 358021283;
+		};
+		perUserProjectItems = {
+			F82B5DA0155369530023B89B /* PBXTextBookmark */ = F82B5DA0155369530023B89B /* PBXTextBookmark */;
+			F8C0F4651556F8CD00D2973F /* PBXTextBookmark */ = F8C0F4651556F8CD00D2973F /* PBXTextBookmark */;
+		};
+		sourceControlManager = F861579D153D2FE3001A27CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* WordLadder */ = {
+		activeExec = 0;
+		executables = (
+			F861578D153D2FDF001A27CC /* WordLadder */,
+		);
+	};
+	A853468E140DED6900F3CE72 /* WordLadder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2307, 383}";
+			sepNavWindowFrame = "{{280, 4}, {996, 774}}";
+		};
+	};
+	F82B5DA0155369530023B89B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A853468E140DED6900F3CE72 /* WordLadder.cpp */;
+		name = "WordLadder.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 2307;
+	};
+	F861578D153D2FDF001A27CC /* WordLadder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WordLadder;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F861579D153D2FE3001A27CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F861579E153D2FE3001A27CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F8C0F4651556F8CD00D2973F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A853468E140DED6900F3CE72 /* WordLadder.cpp */;
+		name = "WordLadder.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 2307;
+	};
+}

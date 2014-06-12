@@ -1,0 +1,287 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F844B14D157D3BA3009677E4 /* Pathfinder */;
+		activeTarget = 8D1107260486CEB800E47090 /* Pathfinder */;
+		breakpoints = (
+			F8A4AF051581C879004D7CF5 /* Pathfinder.cpp:83 */,
+			F8A4AF121581C8D4004D7CF5 /* Pathfinder.cpp:94 */,
+			F8A4AF4D1581CCC6004D7CF5 /* Pathfinder.cpp:207 */,
+		);
+		codeSenseManager = F844B159157D3BC4009677E4 /* Code sense */;
+		executables = (
+			F844B14D157D3BA3009677E4 /* Pathfinder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 377993002;
+			PBXWorkspaceStateSaveDate = 377993002;
+		};
+		perUserProjectItems = {
+			F8174DF21687B74D00A65D07 /* PBXTextBookmark */ = F8174DF21687B74D00A65D07 /* PBXTextBookmark */;
+			F8174DF31687B74D00A65D07 /* PBXTextBookmark */ = F8174DF31687B74D00A65D07 /* PBXTextBookmark */;
+			F86FD374157F38870053B3FE /* PBXTextBookmark */ = F86FD374157F38870053B3FE /* PBXTextBookmark */;
+			F8A4AE621581BD2C004D7CF5 /* PBXTextBookmark */ = F8A4AE621581BD2C004D7CF5 /* PBXTextBookmark */;
+			F8B924CE15805118008DD52E /* PBXTextBookmark */ = F8B924CE15805118008DD52E /* PBXTextBookmark */;
+			F8B9283C15808463008DD52E /* PBXTextBookmark */ = F8B9283C15808463008DD52E /* PBXTextBookmark */;
+			F8DCB67D15A1525A00C11067 /* PBXTextBookmark */ = F8DCB67D15A1525A00C11067 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F844B158157D3BC4009677E4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Pathfinder */ = {
+		activeExec = 0;
+		executables = (
+			F844B14D157D3BA3009677E4 /* Pathfinder */,
+		);
+	};
+	A8365D581503BF8600E3174F /* Pathfinder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 4576}}";
+			sepNavSelRange = "{4527, 0}";
+			sepNavVisRange = "{4349, 355}";
+			sepNavWindowFrame = "{{284, 4}, {996, 774}}";
+		};
+	};
+	A8365D5A1503BF9800E3174F /* gpathfinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2353}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{49, 873}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A8365D5B1503BF9F00E3174F /* gpathfinder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 5525}}";
+			sepNavSelRange = "{2788, 8}";
+			sepNavVisRange = "{7465, 1456}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A8365D5D1503BFA600E3174F /* gpathfinderimpl.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 1885}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2921, 1489}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A8365D5F1503BFAD00E3174F /* graphtypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 871}}";
+			sepNavSelRange = "{705, 0}";
+			sepNavVisRange = "{259, 978}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A8365D601503BFB200E3174F /* path.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 1040}}";
+			sepNavSelRange = "{2594, 0}";
+			sepNavVisRange = "{3, 2066}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	A8365D611503BFBD00E3174F /* path.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 988}}";
+			sepNavSelRange = "{1650, 0}";
+			sepNavVisRange = "{1043, 1037}";
+			sepNavWindowFrame = "{{203, 4}, {996, 774}}";
+		};
+	};
+	F8174DF21687B74D00A65D07 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D5A1503BF9800E3174F /* gpathfinder.h */;
+		name = "gpathfinder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 49;
+	};
+	F8174DF31687B74D00A65D07 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D5A1503BF9800E3174F /* gpathfinder.h */;
+		name = "gpathfinder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 49;
+	};
+	F844B14D157D3BA3009677E4 /* Pathfinder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Pathfinder;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F844B158157D3BC4009677E4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F844B159157D3BC4009677E4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F86FD374157F38870053B3FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D5B1503BF9F00E3174F /* gpathfinder.cpp */;
+		name = "gpathfinder.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 323;
+	};
+	F8A4AE621581BD2C004D7CF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D601503BFB200E3174F /* path.h */;
+		name = "path.h: 76";
+		rLen = 0;
+		rLoc = 2595;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 2258;
+	};
+	F8A4AF051581C879004D7CF5 /* Pathfinder.cpp:83 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A8365D581503BF8600E3174F /* Pathfinder.cpp */;
+		functionName = "readData(string filename)";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 83;
+		location = Pathfinder;
+		modificationTime = 360828106.742964;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F8A4AF121581C8D4004D7CF5 /* Pathfinder.cpp:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A8365D581503BF8600E3174F /* Pathfinder.cpp */;
+		functionName = "readData(string filename)";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = Pathfinder;
+		modificationTime = 360828112.549026;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F8A4AF4D1581CCC6004D7CF5 /* Pathfinder.cpp:207 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A8365D581503BF8600E3174F /* Pathfinder.cpp */;
+		functionName = "getStart(SimpleGraph& graph)";
+		hitCount = 20;
+		ignoreCount = 0;
+		lineNumber = 207;
+		location = Pathfinder;
+		modificationTime = 360828202.065462;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F8B924CE15805118008DD52E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D5F1503BFAD00E3174F /* graphtypes.h */;
+		name = "graphtypes.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 122;
+	};
+	F8B9283C15808463008DD52E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D611503BFBD00E3174F /* path.cpp */;
+		name = "path.cpp: 5";
+		rLen = 0;
+		rLoc = 88;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	F8DCB67D15A1525A00C11067 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8365D581503BF8600E3174F /* Pathfinder.cpp */;
+		name = "Pathfinder.cpp: 171";
+		rLen = 0;
+		rLoc = 4527;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 4349;
+	};
+}

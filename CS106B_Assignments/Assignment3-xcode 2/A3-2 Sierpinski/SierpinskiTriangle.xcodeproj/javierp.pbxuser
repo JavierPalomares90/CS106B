@@ -1,0 +1,117 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F8001F5E154A33E000BF8580 /* SierpinskiTriangle */;
+		activeTarget = 8D1107260486CEB800E47090 /* SierpinskiTriangle */;
+		codeSenseManager = F8001F64154A33FF00BF8580 /* Code sense */;
+		executables = (
+			F8001F5E154A33E000BF8580 /* SierpinskiTriangle */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357184480;
+			PBXWorkspaceStateSaveDate = 357184480;
+		};
+		perUserProjectItems = {
+			F8001FB2154A45E700BF8580 /* PBXBookmark */ = F8001FB2154A45E700BF8580 /* PBXBookmark */;
+			F8001FB3154A45E700BF8580 /* PBXTextBookmark */ = F8001FB3154A45E700BF8580 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F8001F63154A33FF00BF8580 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SierpinskiTriangle */ = {
+		activeExec = 0;
+		executables = (
+			F8001F5E154A33E000BF8580 /* SierpinskiTriangle */,
+		);
+	};
+	A8F08D2E145A285F00BA3120 /* SierpinskiTriangle.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 923}}";
+			sepNavSelRange = "{1650, 0}";
+			sepNavVisRange = "{744, 597}";
+			sepNavWindowFrame = "{{15, 4}, {996, 774}}";
+		};
+	};
+	F8001F5E154A33E000BF8580 /* SierpinskiTriangle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SierpinskiTriangle;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F8001F63154A33FF00BF8580 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F8001F64154A33FF00BF8580 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F8001FB2154A45E700BF8580 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A8F08D2E145A285F00BA3120 /* SierpinskiTriangle.cpp */;
+	};
+	F8001FB3154A45E700BF8580 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8F08D2E145A285F00BA3120 /* SierpinskiTriangle.cpp */;
+		name = "SierpinskiTriangle.cpp: 64";
+		rLen = 0;
+		rLoc = 1650;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 744;
+	};
+}
